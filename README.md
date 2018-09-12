@@ -1,0 +1,2 @@
+# SafePlatinum
+Safelink By Safeplatinum
